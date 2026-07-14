@@ -28,3 +28,5 @@ out/
 # Temporary files
 *.tmp
 *.swp
+.vercel
+.env*
